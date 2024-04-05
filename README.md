@@ -1,2 +1,2 @@
 # project2
-this is project dev
+this is project developer
